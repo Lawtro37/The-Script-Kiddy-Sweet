@@ -3,15 +3,15 @@
     "modules": [
         {
             "name": "Variable Hierarchy",
-            "path": "./modules/varHierarchy.js"
+            "path": "/modules/varHierarchy.js"
         },
         {
             "name": "Inject Script",
-            "path": "./modules/injectScr.js"
+            "path": "/modules/injectScr.js"
         },
         {
             "name": "Advanced Log",
-            "path": "./modules/avavcedLog.js"
+            "path": "/modules/avavcedLog.js"
         }
     ]
 }
