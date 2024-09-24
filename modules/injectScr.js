@@ -3,7 +3,7 @@ function injectScript() {
         <textarea id="scriptText" style="width: 100%; height: 200px;"></textarea>
         <button id="injectScript">Inject</button>
     `);
-    document.getElementById('injectScript').addEventListener('click', () => {
+    document.getElementById('Inject Script').addEventListener('click', () => {
         let scriptText = document.getElementById('scriptText').value;
         try {
             if(scriptText !== '') {
