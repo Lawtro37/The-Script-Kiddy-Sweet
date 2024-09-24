@@ -1,0 +1,17 @@
+{
+    "version": "0.4.7",
+    "modules": [
+        {
+            "name": "Variable Hierarchy",
+            "path": "./modules/varHierarchy.js"
+        },
+        {
+            "name": "Inject Script",
+            "path": "./modules/injectScr.js"
+        },
+        {
+            "name": "Advanced Log",
+            "path": "./modules/avavcedLog.js"
+        }
+    ]
+}
